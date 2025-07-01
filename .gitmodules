@@ -1,0 +1,6 @@
+[submodule "lib/mdbread"]
+	path = lib/mdbread
+	url = https://github.com/gilesc/mdbread.git
+[submodule "lib/_mdbread"]
+	path = lib/_mdbread
+	url = https://github.com/gilesc/mdbread.git
