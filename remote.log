@@ -1,0 +1,1 @@
+d2788245-f92f-44b9-9e6d-bfacddfd845a autoenable=true bucket=ubc-fresh-mea datacenter=US encryption=none host=object-arbutus.cloud.computecanada.ca name=arbutus-s3 port=80 protocol=https public=yes publicurl=https://object-arbutus.cloud.computecanada.ca/ubc-fresh-mea requeststyle=path storageclass=STANDARD type=S3 timestamp=1751409611s
